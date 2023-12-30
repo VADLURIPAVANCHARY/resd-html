@@ -1,0 +1,24 @@
+h1{
+    text-align-last: center;
+    background-color: blue;
+   color: antiquewhite;
+}
+body{
+    
+           background-color: lightgoldenrodyellow;
+}
+p{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+    background-color: azure;
+    text-align: center;
+}
+p2{
+    color: aquamarine;
+
+    background-color: brown;
+    font-style: italic;
+    font-size: 20pt;
+    text-align: center;
+}
